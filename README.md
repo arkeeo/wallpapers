@@ -2,7 +2,7 @@
 wallapapers i use
 
 ## Minimal
-(WALLPAPERS MAIN/MINIMAL/1.jpg)
+![1](WALLPAPERS MAIN/MINIMAL/1.jpg)
 
 
 
