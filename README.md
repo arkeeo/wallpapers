@@ -4,9 +4,12 @@ wallapapers i use
 ## Minimal
 # Wallpapers
 
-<img src="WALLPAPERS%20MAIN/MINIMAL/1.jpg" width="700">
+<p align="center">
+  <img src="WALLPAPERS%20MAIN/MINIMAL/1.jpg" width="30%">
+  <img src="WALLPAPERS MAIN/MINIMAL/ford marlboro.png" width="30%">
+  <img src="WALLPAPERS%20MAIN/MINIMAL/4.png" width="30%">
+</p>
 
-<img src="WALLPAPERS%20MAIN/MINIMAL/1.png" width="700">
 
 ## Scene
 
