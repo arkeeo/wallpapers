@@ -3,7 +3,7 @@
 ## Minimal
 
 <p align="center">
-  <img src="WALLPAPERS%20MAIN/MINIMAL/1.jpg" width="50%">
+  <img src="WALLPAPERS%20MAIN/MINIMAL/1.jpg" width="22%">
   &nbsp;&nbsp;
 
   <img src="WALLPAPERS%20MAIN/MINIMAL/1.png" width="22%">
