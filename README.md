@@ -2,9 +2,13 @@
 wallapapers i use
 
 ## Minimal
-![1](WALLPAPERS MAIN/MINIMAL/1.jpg)
+# Wallpapers
 
+## Image 1
+![Image 1](WALLPAPERS%20MAIN/MINIMAL/1.jpg)
 
+## Image 2
+![Image 2](WALLPAPERS%20MAIN/MINIMAL/4.png)
 
 ## Scene
 
