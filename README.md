@@ -12,7 +12,6 @@
   <img src="WALLPAPERS%20MAIN/MINIMAL/4.png" width="22%">
   &nbsp;&nbsp;
 
-  <img src="WALLPAPERS%20MAIN/MINIMAL/44.png" width="22%">
 </p>
 
 <p align="center">
@@ -25,7 +24,7 @@
   <img src="WALLPAPERS%20MAIN/MINIMAL/6.png" width="22%">
   &nbsp;&nbsp;
 
-  <img src="WALLPAPERS%20MAIN/MINIMAL/7.png" width="22%">
+  
 </p>
 
 <p align="center">
